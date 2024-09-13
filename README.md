@@ -23,6 +23,8 @@ Make sure you have pre-installed all of this in order for this tool to work;
 - Hfsprogs ➡  For partitioning of USB in hfs+
 - fdisk ➡  For disk/USB operations 
 - Peazip (https://peazip.github.io/peazip-64bit.html)  ➡ For extraction and decompression 
+________
+### Note : The process of Installing above requisites is different in different linux distros, Kindly follow your steps to install it and come back after doing so.
 
 ~ if running on `MacOS`
 - no prerequisites 
