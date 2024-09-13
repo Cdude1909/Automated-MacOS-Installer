@@ -17,7 +17,7 @@ MacOS Mojave (10.14) ➡ MacOS Sonoma (14.0)
 ## Requirements
 Make sure you have pre-installed all of this in order for this tool to work;
 - USB (16 gb or more)
-- Mid-End / High-End Machine (Recommended),as tool uses heavy **CPU resources.**
+- Mid-End / High-End Machine (Recommended min 6 cores),as tool uses heavy **CPU resources.**
  
 ~ if running on `Linux` (~ Debian Recommended)
 - Hfsprogs ➡  For partitioning of USB in hfs+
@@ -95,6 +95,8 @@ Now the flashing process will start. you may again have some ☕️.
 
 Finalization: The script will get completed and    
 VOILA! you now have a **MacOS Bootable USB** for Non-Apple Devices.🔥
+
+**Now just reboot device and Select USB from boot-menu and OC will boot!**
 
 
 ## Screenshots
