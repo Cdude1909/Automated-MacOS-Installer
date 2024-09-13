@@ -48,9 +48,9 @@ sudo /path/to/macos-installer.command
 In order to run this tool , make sure **you have installed the requirements.**
 Now lets get started,
 
-### Step 1)
+### Step 1) Downlaod `main_files.arc` from [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/)
  Using `Peazip` extract the `main_files.arc` (Have some ☕️, it will take time!)
-### Step 2)
+### Step 2) Make script executable and run it
 Note: 
 ***Make sure not to alter the file structure downloaded from 
 [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/), as tool is dependent upon those files.***
@@ -61,13 +61,13 @@ cd /path/to/installer.sh
 sudo chmod +x installer.sh
 sudo sh ./installer.sh
 ```
-### Step 3)
+### Step 3) Provide input accordingly
  Now you need to provide **Input** such as  `USB DEVICE` ,`DMG/ISO Location`
-### Step 4)
+### Step 4) Selection for EFI 
  Finally , it will ask for **CUSTOM EFI** or **GENERIC EFI** ,
  you can opt accordingly.
  for GENERIC EFI , you need to know your `CPU NAME`, don't worry i've got you covered! 
- ### CPU Model Names (**INTEL**)
+ #### CPU Model Names (**INTEL**)
 
 | CPU             | Name                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -85,13 +85,13 @@ sudo sh ./installer.sh
 |13th GEN| RaptorLake|
 |14th GEN| MeteorLake|
 
-### For `AMD` Users, Generic EFI folder is available for 
+#### For `AMD` Users, Generic EFI folder is available for 
 - THREADRIPPER
 - Ryzen
 - Jaguar
 - BullDozer 
 
-### Step 5)
+### Step 5) Wuhu! its done 🎊
 Now the flashing process will start. you may again have some ☕️.
 
 Finalization: The script will get completed and    
