@@ -1,4 +1,4 @@
-
+<a href="https://www.buymeacoffee.com/cdude1909" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Tea" height="41" width="174"></a>
 # Automated macOS installer ~ Hackintosh 🔥
 
 This tool help you cut the hectic procedure to flash the DMG/ISO for every updates or clean install. this tool will automate the process of burning DMG/ISO files into the USB and also create it Bootable by copying essential files and EFI. 
