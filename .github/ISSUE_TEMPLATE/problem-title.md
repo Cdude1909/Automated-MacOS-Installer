@@ -1,12 +1,4 @@
----
-name: Problem title
-about: share screenshots and the problem below
-title: ''
-labels: ''
-assignees: ''
+OS NAME:
 
----
+SCREENSHOT where script is stuck:
 
-provide details;
-OS name,
-Screenshot of where the script is stuck
