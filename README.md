@@ -5,7 +5,7 @@ This tool help you cut the hectic procedure to flash the DMG/ISO for every updat
 
 ## SUPPORT:
 Any MacOS Version from
-MacOS Mojave (10.14) ---> MacOS Sonoma (14.0)
+MacOS Mojave (10.14) ➡️ ➡️ MacOS Sonoma (14.0)
 ## NOTE, before proceeding:
 - `This tool will only work on Linux & macOS. For Windows, please use Linux-VM, NO WSL!`
 
@@ -18,8 +18,8 @@ Make sure you have pre-installed all of this in order for this tool to work;
 - Mid-End / High-End Machine (Recommended),as tool uses heavy **CPU resources.**
  
 ~ if running on `Linux`
-- Hfsprogs  -----> For partitioning of USB in hfs+
-- fdisk -------> For disk/USB operations 
+- Hfsprogs ➡ ➡ For partitioning of USB in hfs+
+- fdisk ➡ ➡ For disk/USB operations 
 - Peazip (https://peazip.github.io/peazip-64bit.html) ---> For extraction and decompression 
 
 ~ if running on `MacOS`
