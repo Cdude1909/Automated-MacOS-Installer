@@ -18,9 +18,9 @@ Make sure you have pre-installed all of this in order for this tool to work;
 - Mid-End / High-End Machine (Recommended),as tool uses heavy **CPU resources.**
  
 ~ if running on `Linux`
-- Hfsprogs ➡ ➡ For partitioning of USB in hfs+
-- fdisk ➡ ➡ For disk/USB operations 
-- Peazip (https://peazip.github.io/peazip-64bit.html)  ➡️ For extraction and decompression 
+- Hfsprogs ➡  For partitioning of USB in hfs+
+- fdisk ➡  For disk/USB operations 
+- Peazip (https://peazip.github.io/peazip-64bit.html)  ➡ For extraction and decompression 
 
 ~ if running on `MacOS`
 - no prerequisites 
