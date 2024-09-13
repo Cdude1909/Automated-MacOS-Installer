@@ -1,6 +1,7 @@
 
 # Automated macOS installer ~ Hackintosh 🔥
 
+
 This tool help you cut the hectic procedure to flash the DMG/ISO for every updates or clean install. this tool will automate the process of burning DMG/ISO files into the USB and also create it Bootable by copying essential files and EFI. 
 
 ## SUPPORT:
@@ -96,4 +97,13 @@ VOILA! you now have a **MacOS Bootable USB** for Non-Apple Devices.🔥
 
 
 ## Screenshots
- /
+ **WORKING**
+ 
+https://github.com/user-attachments/assets/811d7c26-ba81-4529-84c5-11cd66db36eb
+
+ **CPU SELECTION FOR EFI**    
+![Screenshot_20240913_150730_Samsung Notes](https://github.com/user-attachments/assets/916cd511-e037-4b12-9b96-db4eea9c70d1)      
+**Selection of USB for flashing**
+![20240913_150801](https://github.com/user-attachments/assets/bbcf7e72-3684-45d0-ac89-d488d40b0e37)
+
+ 
