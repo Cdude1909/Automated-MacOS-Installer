@@ -23,7 +23,6 @@ Make sure you have pre-installed all of this in order for this tool to work;
 - Hfsprogs ➡  For partitioning of USB in hfs+
 - fdisk ➡  For disk/USB operations 
 - Peazip (https://peazip.github.io/peazip-64bit.html)  ➡ For extraction and decompression 
-________
 ### Note : The process of Installing above requisites is different in different linux distros, Kindly follow your steps to install it and come back after doing so.
 
 ~ if running on `MacOS`
@@ -98,7 +97,7 @@ Now the flashing process will start. you may again have some ☕️.
 Finalization: The script will get completed and    
 VOILA! you now have a **MacOS Bootable USB** for Non-Apple Devices.🔥
 
-**Now just reboot device and Select USB from boot-menu and OC will boot!**
+**Now just reboot/insert & Select USB from boot-menu and OC will boot!**
 
 
 ## Screenshots
