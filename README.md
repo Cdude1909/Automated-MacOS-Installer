@@ -14,7 +14,7 @@ MacOS Mojave (10.14) ➡ MacOS Sonoma (14.0)
 
 - `Works on any Linux-Distro`
 
-- `Tool provides Generic EFI fodler, but you may use custom EFI folder`
+- `Tool provides Generic EFI folder, but you may use custom EFI folder`
 ## Requirements
 Make sure you have pre-installed all of this in order for this tool to work;
 - USB (16 gb or more)
