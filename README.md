@@ -35,7 +35,7 @@ Dividing this section as per OS;
 
 - **MacOS** 
 
-If you are lucky to have a friend with macOS , you may directly run the `macos_installer.command` script from  [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/). 
+If you are lucky to have a friend with macOS , you may directly downlaod & extract the `macos_installer.zip` from  [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/). Zip contains the `.command` file.
 
 simply,  
 
