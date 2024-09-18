@@ -50,6 +50,10 @@ In order to run this tool , make sure **you have installed the requirements.**
 Now lets get started,
 
 ### Step 1) Downlaod `main_files.arc` from [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/)
+or 
+#### **Click below, if speeds are very slow ＼(ﾟｰﾟ＼)** 
+[<img src ="https://github.com/user-attachments/assets/ee4fade8-21a1-4d6e-b71e-f719096f650b" width=310/>](https://www.dropbox.com/scl/fi/bxn6motibtyc002a6yxjo/Essential_files.arc?rlkey=y5n8zlldcctms02xphq8podsl&st=ref8osfe&dl=0)
+
  Using `Peazip` extract the `main_files.arc` (Have some ☕️, it will take time!)
 ### Step 2) Make script executable and run it
 Note: 
