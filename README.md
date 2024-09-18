@@ -34,7 +34,7 @@ Make sure you have pre-installed all of this in order for this tool to work;
 
 Dividing this section as per OS;
 
-- **MacOS** 
+### ➡️ **MacOS** 
 
 If you are lucky to have a friend with macOS , you may directly downlaod & extract the `macos_installer.zip` from  [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/). Zip contains the `.command` file.
 
@@ -44,7 +44,7 @@ simply,
 chmod +x /path/to/macos-installer.command
 sudo /path/to/macos-installer.command
 ```
-- **Linux**
+### ➡️ **Linux**
 
 In order to run this tool , make sure **you have installed the requirements.**
 Now lets get started,
