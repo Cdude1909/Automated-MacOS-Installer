@@ -54,7 +54,9 @@ or
 #### **Click below, if speeds are very slow ＼(ﾟｰﾟ＼)** 
 [<img src ="https://github.com/user-attachments/assets/ee4fade8-21a1-4d6e-b71e-f719096f650b" width=310/>](https://www.dropbox.com/scl/fi/vuo432y4dtt93l7lxt0ip/Linux.tar.arc?rlkey=d6tdmfmpw2op8z6l43z43x9cc&st=mfedo4xt&dl=0)
 
- Using `Peazip` extract the `.arc & .tar` (Have some ☕️, it will take time!)
+Using `Peazip` extract the `.arc & .tar` (Have some ☕️, it will take time!)
+
+NOTE : IF IT ASKS FOR PASSWORD,you may use WINDOWS to extract it
 ### Step 2) Go inside `folders` , Make script executable and run it
 Note: 
 ***Make sure not to alter the file structure downloaded from 
