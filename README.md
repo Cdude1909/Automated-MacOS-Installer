@@ -7,7 +7,7 @@ This tool help you cut the hectic procedure to flash the DMG/ISO for every updat
 
 ## SUPPORT:
 Any MacOS Version from
-MacOS Mojave (10.14) ➡ MacOS Sonoma (14.0)
+MacOS Mojave (10.14) ➡ MacOS Sequoia (15.0)
 ## NOTE, before proceeding:
 - `This tool will only work on Linux & macOS. For Windows, please use Linux-VM, NO WSL!`
 
@@ -49,12 +49,12 @@ sudo /path/to/macos-installer.command
 In order to run this tool , make sure **you have installed the requirements.**
 Now lets get started,
 
-### Step 1) Downlaod `main_files.arc` from [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/)
+### Step 1) Downlaod `Linux.tar.arc` from [releases](https://github.com/Cdude1909/Automated-MacOS-Installer/releases/)
 or 
 #### **Click below, if speeds are very slow ＼(ﾟｰﾟ＼)** 
-[<img src ="https://github.com/user-attachments/assets/ee4fade8-21a1-4d6e-b71e-f719096f650b" width=310/>](https://www.dropbox.com/scl/fi/gjbh8lj8hvwqa4jnklt3n/Main_Files.arc?rlkey=2z70fklo5tezt2ipefwchzqrs&st=rc15f5s7&dl=0)
+[<img src ="https://github.com/user-attachments/assets/ee4fade8-21a1-4d6e-b71e-f719096f650b" width=310/>](https://www.dropbox.com/scl/fi/vuo432y4dtt93l7lxt0ip/Linux.tar.arc?rlkey=d6tdmfmpw2op8z6l43z43x9cc&st=mfedo4xt&dl=0)
 
- Using `Peazip` extract the `main_files.arc` (Have some ☕️, it will take time!)
+ Using `Peazip` extract the `.arc & .tar` (Have some ☕️, it will take time!)
 ### Step 2) Go inside `folders` , Make script executable and run it
 Note: 
 ***Make sure not to alter the file structure downloaded from 
